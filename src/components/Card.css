@@ -7,6 +7,7 @@
     margin-bottom: 4rem;
     border-radius: 1rem;
     font-family: "Space Mono", monospace;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
   
 .user-card .user{
